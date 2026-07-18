@@ -1,9 +1,13 @@
 # Predictive networks generate motion-induced color illusions
 
 Kyohei Ueda, Lana Sinapayen, Eiji Watanabe
+
 Journal   Scientific Reports
+
 Date      16 June 2026
+
 DOI       10.1038/s41598-026-57953-w
+
 
 ## Abstract
 
